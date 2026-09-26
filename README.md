@@ -77,11 +77,6 @@ I'm a Computer Science & Data Science student passionate about building **AI-pow
 <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,django,firebase&perline=8"/>
-</p>
 
 ### ⚙️ Tools & Platforms
 
