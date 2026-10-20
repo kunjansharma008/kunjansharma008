@@ -4,7 +4,7 @@
 ### Data Science Student | Python Developer | AI/ML Explorer | Data Analytics Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Python+%7C+SQL;Building+Data-Driven+Applications;Exploring+Machine+Learning+%26+Green+AI;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Profile introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Python+%7C+SQL;Building+Data-Driven+Applications;Exploring+Machine+Learning+%26+Green+AI;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Profile Introduction"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="mailto:sharmakunjan006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/shree895">
+  <a href="https://github.com/kunjansharma008">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -25,14 +25,15 @@
 
 I'm a Computer Science and Data Science student interested in building practical, data-driven applications and solving real-world problems using technology.
 
-- Pursuing **B.Sc. Computer Science at Galgotias University**
-- Pursuing **BS in Data Science and Applications at IIT Madras**
-- Working with Python, SQL, Pandas and data analysis
-- Exploring Machine Learning, statistics and data visualization
-- Interested in Data Analytics, Business Intelligence, Data Science and Data Engineering
-- Building projects focused on model optimization, classification and interactive dashboards
+- 🎓 Pursuing **B.Sc. Computer Science at Galgotias University**
+- 🎓 Pursuing **BS in Data Science and Applications at IIT Madras**
+- 🐍 Working with Python, SQL, Pandas and data analysis
+- 📊 Exploring statistics, data visualization and business insights
+- 🤖 Learning Machine Learning and model evaluation
+- 🌱 Interested in energy-aware AI and model optimization
+- 🎯 Aspiring to build a career in Data Analytics, Business Intelligence, Data Science or Data Engineering
 
-My approach: **Learn → Build → Experiment → Improve**
+**My approach:** Learn → Build → Experiment → Improve
 
 ---
 
@@ -78,9 +79,9 @@ My approach: **Learn → Build → Experiment → Improve**
 
 ### 1. Carbon-Aware Model Optimizer
 
-[View Repository](https://github.com/shree895/carbon-aware-model-optimizer-main)
+[View Project Repository](https://github.com/shree895/carbon-aware-model-optimizer-main)
 
-A machine learning project exploring model selection by balancing predictive accuracy with estimated energy consumption and carbon emissions.
+A data-driven machine learning project that explores model selection by balancing predictive accuracy with estimated energy consumption and carbon emissions.
 
 **Key Features**
 - Interactive dashboard built with Streamlit
@@ -91,13 +92,13 @@ A machine learning project exploring model selection by balancing predictive acc
 
 **Technologies:** Python, Streamlit, Pandas, Scikit-learn, Machine Learning
 
-*Note: Environmental measurements are estimates based on the project's assumptions and evaluation setup.*
+*Environmental measurements are estimates based on the project's assumptions and evaluation setup.*
 
 ### 2. CloneGuard — Clone Account Fraud Detection
 
-[View Repository](https://github.com/kunjansharma008/clone-account-fraud-detection)
+[View Project Repository](https://github.com/kunjansharma008/clone-account-fraud-detection)
 
-A machine learning application designed to classify potentially fraudulent clone accounts and distinguish them from genuine accounts.
+A machine learning application designed to identify potentially fraudulent clone accounts and distinguish them from genuine accounts.
 
 **Key Features**
 - Random Forest classification
@@ -115,20 +116,20 @@ A machine learning application designed to classify potentially fraudulent clone
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree895&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunjansharma008&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjansharma008&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
 </p>
 
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shree895&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=kunjansharma008&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub contribution activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunjansharma008&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -165,13 +166,13 @@ Focus areas: Data Structures, Database Management Systems, Software Engineering 
 
 ## Career Goals
 
-- Build end-to-end Data Science and Analytics projects
-- Strengthen Python, SQL and statistical analysis skills
-- Improve Machine Learning fundamentals
-- Develop interactive dashboards and data applications
-- Deploy and document projects professionally
-- Contribute to open-source projects
-- Prepare for Data Analyst, Business Intelligence and Data Science opportunities
+- [ ] Build end-to-end Data Science and Analytics projects
+- [ ] Strengthen Python, SQL and statistical analysis
+- [ ] Improve Machine Learning fundamentals
+- [ ] Develop interactive dashboards and data applications
+- [ ] Deploy and document projects professionally
+- [ ] Contribute to open-source projects
+- [ ] Prepare for Data Analyst, Business Intelligence and Data Science opportunities
 
 ---
 
@@ -179,9 +180,9 @@ Focus areas: Data Structures, Database Management Systems, Software Engineering 
 
 I'm interested in collaborating on Data Science, Data Analytics, Machine Learning, sustainable AI and Python-based projects.
 
-- GitHub: [shree895](https://github.com/shree895)
-- Email: [sharmakunjan006@gmail.com](mailto:sharmakunjan006@gmail.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/kunjan-sharma008/)
+- **GitHub:** [kunjansharma008](https://github.com/kunjansharma008)
+- **Email:** [sharmakunjan006@gmail.com](mailto:sharmakunjan006@gmail.com)
+- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
 ---
 
