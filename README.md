@@ -81,7 +81,7 @@ I'm a Computer Science and Data Science student interested in building practical
 
 [View Project Repository](https://github.com/shree895/carbon-aware-model-optimizer-main)
 
-A data-driven machine learning project that explores model selection by balancing predictive accuracy with estimated energy consumption and carbon emissions.
+A machine learning project exploring model selection by balancing predictive accuracy with estimated energy consumption and carbon emissions.
 
 **Key Features**
 - Interactive dashboard built with Streamlit
@@ -110,27 +110,6 @@ A machine learning application designed to identify potentially fraudulent clone
 **Reported test accuracy:** 92.4%
 
 **Technologies:** Python, Scikit-learn, Random Forest, Flask, React, Vite
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjansharma008&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjansharma008&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
-</p>
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kunjansharma008&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunjansharma008&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
-</p>
 
 ---
 
