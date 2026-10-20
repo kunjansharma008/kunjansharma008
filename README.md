@@ -1,290 +1,190 @@
-# 👋 Hi, I'm Kunjan Sharma
 
-### `Data Science Student` • `AI/ML Explorer` • `Python Developer` • `Problem Solver`
+# Hi, I'm Kunjan Sharma
+
+### Data Science Student | Python Developer | AI/ML Explorer | Data Analytics Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+AI%2FML+%7C+Python;Building+Projects+That+Solve+Real+Problems;Learning+%E2%86%92+Building+%E2%86%92+Improving;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Python+%7C+SQL;Building+Data-Driven+Applications;Exploring+Machine+Learning+%26+Green+AI;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Profile introduction" />
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sharmakunjan006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/shree895">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a Computer Science & Data Science student passionate about building **AI-powered, data-driven solutions for real-world problems**.
+I'm a Computer Science and Data Science student interested in building practical, data-driven applications and solving real-world problems using technology.
 
-🎓 Pursuing **BS in Data Science & Applications at IIT Madras**
+- Pursuing **B.Sc. Computer Science at Galgotias University**
+- Pursuing **BS in Data Science and Applications at IIT Madras**
+- Working with Python, SQL, Pandas and data analysis
+- Exploring Machine Learning, statistics and data visualization
+- Interested in Data Analytics, Business Intelligence, Data Science and Data Engineering
+- Building projects focused on model optimization, classification and interactive dashboards
 
-🎓 Pursuing **B.Sc. Computer Science at Galgotias University**
-
-🐍 Working with **Python, SQL, Pandas & Data Visualization**
-
-🤖 Exploring **Machine Learning, Computer Vision & Edge AI**
-
-📊 Interested in **Data Science, Data Analytics & AI/ML**
-
-🏆 Building and presenting solutions through **hackathons & academic projects**
-
-💡 I enjoy turning raw data and real-world problems into practical, visual and intelligent solutions.
-
-> **Learn → Build → Experiment → Improve 🚀**
+My approach: **Learn → Build → Experiment → Improve**
 
 ---
 
-# 🛠️ Tech Stack
+## Technical Skills
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&perline=8"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn&perline=8"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🤖 AI / Machine Learning / Computer Vision
+### Machine Learning & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=8"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edge%20AI-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&perline=8"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square" alt="Random Forest"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🚦 Street Guardian AI
+### 1. Carbon-Aware Model Optimizer
 
-### Predictive Road Safety & Smart Emergency Response
+[View Repository](https://github.com/shree895/carbon-aware-model-optimizer-main)
 
-**Smart India Hackathon — Team Binary Brains**
+A machine learning project exploring model selection by balancing predictive accuracy with estimated energy consumption and carbon emissions.
 
-An AI-driven mobility concept designed to improve road safety and emergency response using **Computer Vision, Edge AI and IoT**.
+**Key Features**
+- Interactive dashboard built with Streamlit
+- Comparison of baseline, pruned and quantized model results
+- Accuracy, energy consumption and CO₂ estimates
+- Configurable constraints for model selection
+- Visual comparisons of model performance and environmental metrics
 
-### 🔑 Key Components
+**Technologies:** Python, Streamlit, Pandas, Scikit-learn, Machine Learning
 
-* 🚗 AI-powered road hazard detection
-* 📹 Computer Vision using YOLOv8
-* 🚦 Intelligent traffic-light optimization
-* 👁️ Driver alertness monitoring
-* 📡 IoT-based road data collection
-* ⚡ Edge AI processing
-* 🚑 Smart emergency response
-* 📊 Authority monitoring dashboard
+*Note: Environmental measurements are estimates based on the project's assumptions and evaluation setup.*
 
-**Tech:** `Python` `YOLOv8` `OpenCV` `TensorFlow Lite` `Flask` `Firebase` `Raspberry Pi` `GPS`
+### 2. CloneGuard — Clone Account Fraud Detection
 
----
+[View Repository](https://github.com/kunjansharma008/clone-account-fraud-detection)
 
-## 🛒 Amazon E-Commerce Sales Analysis
+A machine learning application designed to classify potentially fraudulent clone accounts and distinguish them from genuine accounts.
 
-A data analytics project focused on extracting business insights from Amazon product data.
+**Key Features**
+- Random Forest classification
+- Dataset containing 5,000 records
+- Fraud and genuine account classification
+- Model evaluation and performance analysis
+- Web dashboard for presenting results
 
-### 🔍 What I worked on
+**Reported test accuracy:** 92.4%
 
-* Data cleaning & preprocessing
-* Missing-value treatment
-* Price & rating standardization
-* Exploratory Data Analysis
-* Category-level analysis
-* Rating distribution analysis
-* Customer review analysis
-* Word-cloud visualization
-
-**Tech:** `Python` `Pandas` `Matplotlib` `Seaborn` `WordCloud` `Jupyter`
+**Technologies:** Python, Scikit-learn, Random Forest, Flask, React, Vite
 
 ---
 
-## 📊 Data Visualization Projects
-
-A collection of independent visualization experiments exploring different ways to communicate complex datasets.
-
-### Visualizations
-
-📈 Area Charts
-🔥 Heat Maps
-📅 Gantt Charts
-💧 Waterfall Charts
-☁️ Word Clouds
-🕸️ Network Diagrams
-🗓️ Historical Data Timelines
-
----
-
-# 📈 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shree895&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shree895&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
 </p>
 
----
-
-# 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shree895&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
----
-
-# 🐍 My Contribution Journey
+## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shree895&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub contribution activity"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-```text
-Data Science        █████████████████░░░  85%
-Python              ██████████████████░░  90%
-SQL                 ████████████████░░░░  80%
-Machine Learning    ██████████████░░░░░░  70%
-Computer Vision     ████████████░░░░░░░░  60%
-Data Visualization  ████████████████░░░░  80%
-Web Development     ██████████░░░░░░░░░░  50%
-```
-
-> These represent my current learning focus rather than formal proficiency ratings.
+- Python for Data Science
+- SQL and database management
+- Statistics and exploratory data analysis
+- Machine Learning algorithms and model evaluation
+- Data visualization and storytelling
+- Model optimization and environmental impact estimation
+- Deploying interactive data applications
 
 ---
 
-# 🧠 Currently Learning
-
-🔹 Advanced Python for Data Science
-🔹 Machine Learning & Model Evaluation
-🔹 SQL & Data Analytics
-🔹 Statistics for Data Science
-🔹 Computer Vision
-🔹 Deep Learning
-🔹 Data Visualization & Storytelling
-🔹 Building deployable AI applications
-
----
-
-# 🏆 Hackathon & Project Experience
-
-| Area                | Experience                                   |
-| ------------------- | -------------------------------------------- |
-| 🤖 AI/ML            | Real-world problem solving                   |
-| 📊 Data Science     | EDA, preprocessing & visualization           |
-| 👁️ Computer Vision | YOLOv8, OpenCV                               |
-| 🌐 Development      | Flask, Django, Firebase                      |
-| 📡 IoT              | Raspberry Pi, GPS & sensors                  |
-| 🏆 Hackathons       | Smart India Hackathon & project competitions |
-| 👥 Teamwork         | Collaborative development & presentation     |
-
----
-
-# 🎓 Education
+## Education
 
 ### IIT Madras
 
 **BS in Data Science and Applications**
 
-Focus Areas:
-`Python` `Statistics` `Computational Thinking` `Data Science`
+Currently pursuing the Diploma Level after completing the Foundation Level.
+
+Focus areas: Python, Statistics, Computational Thinking and Data Science.
 
 ### Galgotias University
 
 **B.Sc. Computer Science**
 
-Focus Areas:
-`Data Structures` `DBMS` `Software Engineering` `Computer Science`
+Focus areas: Data Structures, Database Management Systems, Software Engineering and Computer Science.
 
 ---
 
-# 📜 Certifications
+## Career Goals
 
-🎓 **IIT Madras Foundation Certificate**
-BS in Data Science and Applications — *In Progress*
-
----
-
-# 💭 Developer Philosophy
-
-> **"Don't just learn technology. Build something with it."**
-
-I believe the best way to learn is to combine **theory + experimentation + real-world projects**.
-
-My goal is to continuously improve my ability to transform **data → insights → intelligent solutions**.
+- Build end-to-end Data Science and Analytics projects
+- Strengthen Python, SQL and statistical analysis skills
+- Improve Machine Learning fundamentals
+- Develop interactive dashboards and data applications
+- Deploy and document projects professionally
+- Contribute to open-source projects
+- Prepare for Data Analyst, Business Intelligence and Data Science opportunities
 
 ---
 
-# 🌱 My 2026–27 Goals
+## Let's Connect
 
-* [ ] Build production-ready Data Science projects
-* [ ] Strengthen Machine Learning fundamentals
-* [ ] Improve SQL & statistical analysis
-* [ ] Build more AI-powered applications
-* [ ] Contribute to Open Source
-* [ ] Participate in more hackathons
-* [ ] Deploy projects publicly
-* [ ] Build a strong Data Science portfolio
+I'm interested in collaborating on Data Science, Data Analytics, Machine Learning, sustainable AI and Python-based projects.
+
+- GitHub: [shree895](https://github.com/shree895)
+- Email: [sharmakunjan006@gmail.com](mailto:sharmakunjan006@gmail.com)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/kunjan-sharma008/)
 
 ---
-
-# 🤝 Let's Connect
-
-I'm always interested in:
-
-💡 AI/ML projects
-📊 Data Science & Analytics
-🏆 Hackathons
-🌐 Open Source
-🤝 Collaboration
-🚀 Building innovative products
 
 <p align="center">
-
-### ⭐ If you find my projects interesting, consider giving them a star!
-
-**Thanks for visiting my profile! 🚀**
-
+  Thanks for visiting my profile.
 </p>
